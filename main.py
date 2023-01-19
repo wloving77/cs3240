@@ -1,6 +1,6 @@
 def printName():
     x = input("What is your name?\n")
-    print(x)
+    print("Hi " + x + "!")
     
     
 printName()
